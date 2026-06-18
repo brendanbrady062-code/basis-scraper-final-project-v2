@@ -1,0 +1,12 @@
+@echo off
+REM Run the basis value scraper
+
+cd /d "%~dp0"
+
+if exist ".venv\Scripts\python.exe" (
+    ".venv\Scripts\python.exe" main.py
+) else (
+    py -3 main.py
+)
+
+pause

@@ -1,0 +1,12 @@
+Steps to Run the Code
+1. When you open VS Code and navigate to the Basis scraping folder, you should see the terminal show up at the bottom center of the screen.
+2. If you do not see the terminal, you are going to click the terminal button at the top left of the screen and click new terminal
+3. Once you have the terminal open, you are going to activate the virtual environment - the code to do so is below
+.\.venv\Scripts\Activate.ps1
+4. Once the venv is activated, you will see a green text in the terminal saying .venv, that is your green light to continue
+5. With the venv activated, then you enter the code to start the scrapers into the terminal, that code is below
+python main.py
+6. Once you run main.py, you should start seeing output in the terminal showing that the values are being scraped
+7. When the scrapers are finished you will see a csv output in the data folder for the date, that is where your daily data is found
+
+

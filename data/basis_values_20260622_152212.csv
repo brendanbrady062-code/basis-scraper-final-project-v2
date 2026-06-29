@@ -1,0 +1,327 @@
+location,basis,delivery_start,delivery_end,symbol,cash_price,commodity
+CGB HENNEPIN,-8,06/01/2026,06/30/2026,Jul 2026,$4.0400,Corn
+CGB HENNEPIN,0,07/01/2026,07/31/2026,Jul 2026,$4.1200,Corn
+CGB HENNEPIN,-2,08/01/2026,08/31/2026,Sep 2026,$4.1800,Corn
+CGB HENNEPIN,-6,09/01/2026,09/30/2026,Sep 2026,$4.1400,Corn
+CGB HENNEPIN,-25,10/01/2026,10/31/2026,Dec 2026,$4.1500,Corn
+CGB HENNEPIN,-12,11/01/2026,11/30/2026,Dec 2026,$4.2800,Corn
+CGB HENNEPIN,-2,12/01/2026,12/31/2026,Dec 2026,$4.3800,Corn
+CGB HENNEPIN,-10,01/01/2027,01/31/2027,Mar 2027,$4.4400,Corn
+CGB HENNEPIN,-7,02/01/2027,02/28/2027,Mar 2027,$4.4700,Corn
+CGB HENNEPIN,-15,06/01/2026,06/30/2026,Jul 2026,$11.0100,Beans
+CGB HENNEPIN,-8,07/01/2026,07/31/2026,Jul 2026,$11.0800,Beans
+CGB HENNEPIN,-10,08/01/2026,08/31/2026,Aug 2026,$11.1300,Beans
+CGB HENNEPIN,-35,09/01/2026,09/30/2026,Nov 2026,$11.0700,Beans
+CGB HENNEPIN,-35,10/01/2026,10/31/2026,Nov 2026,$11.0700,Beans
+CGB HENNEPIN,-15,11/01/2026,11/30/2026,Nov 2026,$11.2700,Beans
+CGB HENNEPIN,-17,12/01/2026,12/31/2026,Jan 2027,$11.3900,Beans
+CGB HENNEPIN,-10,01/01/2027,01/31/2027,Jan 2027,$11.4600,Beans
+CGB HENNEPIN,-17,02/01/2027,02/28/2027,Mar 2027,$11.4600,Beans
+ADM Havana,0,06/01/2026,06/30/2026,Jun 26,$4.1150,Corn
+ADM Havana,11,07/01/2026,07/31/2026,Jul 26,$4.2250,Corn
+ADM Havana,4,08/01/2026,08/15/2026,FH Aug 26,$4.2375,Corn
+ADM Havana,4,08/16/2026,08/31/2026,LH Aug 26,$4.2375,Corn
+ADM Havana,-25,09/01/2026,10/31/2026,Fall 26,$4.1450,Corn
+ADM Havana,-15,11/01/2026,11/30/2026,Nov 26,$4.2450,Corn
+ADM Havana,-5,12/01/2026,12/31/2026,Dec 26,$4.3450,Corn
+ADM Havana,-8,01/01/2027,01/31/2027,Jan 27,$4.4600,Corn
+ADM Havana,-3,02/01/2027,02/28/2027,Feb 27,$4.5100,Corn
+ADM Havana,-2,06/01/2026,06/30/2026,Jun 26,$11.1375,Beans
+ADM Havana,4,07/01/2026,07/31/2026,Jul 26,$11.1975,Beans
+ADM Havana,-10,08/01/2026,08/31/2026,Aug 26,$11.1250,Beans
+ADM Havana,-30,09/01/2026,10/31/2026,Fall 26,$11.1150,Beans
+ADM Havana,-15,11/01/2026,11/30/2026,Nov 26,$11.2650,Beans
+ADM Havana,-10,12/01/2026,12/31/2026,Dec 26,$11.4575,Beans
+ADM Havana,-10,01/01/2027,01/31/2027,Jan 27,$11.4575,Beans
+ADM Havana,-15,02/01/2027,02/28/2027,Feb 27,$11.4800,Beans
+Cargill Keithsburg,-14,06/01/2026,06/30/2026,CN6,$3.9750,Corn
+Cargill Keithsburg,-8,07/01/2026,07/31/2026,CN6,$4.0350,Corn
+Cargill Keithsburg,-35,10/01/2026,11/30/2026,CZ6,$4.0450,Corn
+Cargill Keithsburg,-25,11/15/2026,11/30/2026,CZ6,$4.1450,Corn
+Cargill Keithsburg,-25,06/01/2026,06/30/2026,SN6,$10.9075,Beans
+Cargill Keithsburg,-15,07/01/2026,07/31/2026,SN6,$11.0075,Beans
+Cargill Keithsburg,-52,09/01/2026,10/31/2026,SX6,$10.8950,Beans
+Cargill Keithsburg,-36,11/01/2026,11/30/2026,SX6,$11.0550,Beans
+Cargill Keithsburg,-25,11/15/2026,11/30/2026,SX6,$11.1650,Beans
+ADM E St Louis,27,06/01/2026,06/30/2026,June 26,$4.3850,Corn
+ADM E St Louis,36,07/01/2026,07/31/2026,July 26,$4.4750,Corn
+ADM E St Louis,21,08/01/2026,08/31/2026,AUG 26,$4.4075,Corn
+ADM E St Louis,12,09/01/2026,09/30/2026,SEPT 26,$4.3175,Corn
+ADM E St Louis,-4,10/01/2026,11/30/2026,NC 26,$4.3550,Corn
+ADM E St Louis,10,11/01/2026,11/30/2026,Nov 26,$4.4950,Corn
+ADM E St Louis,25,12/01/2026,12/31/2026,Dec 26,$4.6450,Corn
+ADM E St Louis,13,01/01/2027,01/31/2027,Jan 27,$4.6700,Corn
+ADM E St Louis,18,02/01/2027,02/28/2027,Feb 27,$4.7200,Corn
+ADM E St Louis,25,06/01/2026,06/30/2026,June 26,$11.4075,Beans
+ADM E St Louis,36,07/01/2026,07/31/2026,July 26,$11.5175,Beans
+ADM E St Louis,14,08/01/2026,08/31/2026,AUG 26,$11.3650,Beans
+ADM E St Louis,-6,09/01/2026,09/30/2026,SEPT 26,$11.3550,Beans
+ADM E St Louis,-6,10/01/2026,11/30/2026,NC 26,$11.3550,Beans
+ADM E St Louis,16,11/01/2026,11/30/2026,Nov 26,$11.5750,Beans
+ADM E St Louis,16,12/01/2026,12/31/2026,Dec 26,$11.7175,Beans
+ADM E St Louis,19,01/01/2027,01/31/2027,Jan 27,$11.7475,Beans
+ADM E St Louis,18,02/01/2027,02/28/2027,Feb 27,$11.8100,Beans
+ADM Evansville IN,31,06/01/2026,06/30/2026,June,$4.4250,Corn
+ADM Evansville IN,36,07/01/2026,07/31/2026,July,$4.4750,Corn
+ADM Evansville IN,18,08/01/2026,08/31/2026,August,$4.3775,Corn
+ADM Evansville IN,5,09/01/2026,09/30/2026,September,$4.2475,Corn
+ADM Evansville IN,-7,09/01/2026,11/30/2026,Fall '26,$4.3250,Corn
+ADM Evansville IN,17,12/01/2026,12/31/2026,Dec '26,$4.5650,Corn
+ADM Evansville IN,10,01/01/2027,01/31/2027,Jan 27,$4.6400,Corn
+ADM Evansville IN,14,02/01/2027,02/28/2027,February 27,$4.6800,Corn
+ADM Evansville IN,30,06/01/2026,06/30/2026,June,$11.4575,Beans
+ADM Evansville IN,37,07/01/2026,07/31/2026,July,$11.5275,Beans
+ADM Evansville IN,14,08/01/2026,08/31/2026,August,$11.3650,Beans
+ADM Evansville IN,-10,09/01/2026,11/30/2026,Fall '26,$11.3150,Beans
+ADM Evansville IN,8,12/01/2026,12/31/2026,Dec '26,$11.6375,Beans
+ADM Evansville IN,15,01/01/2027,01/31/2027,Jan 27,$11.7075,Beans
+ADM Evansville IN,6,02/01/2027,02/28/2027,February 27,$11.6900,Beans
+BioUrja Peoria,-9,06/01/2026,06/30/2026,Jul 26 Corn,$4.0200,Corn
+BioUrja Peoria,-7,07/01/2026,07/31/2026,Jul 26 Corn,$4.0400,Corn
+BioUrja Peoria,-7,08/01/2026,08/31/2026,Sep 26 Corn,$4.1300,Corn
+BioUrja Peoria,-26,09/01/2026,09/30/2026,Dec 26 Corn,$4.1300,Corn
+BioUrja Peoria,-22,10/01/2026,10/31/2026,Dec 26 Corn,$4.1700,Corn
+BioUrja Peoria,-7,12/01/2026,12/31/2026,Dec 26 Corn,$4.3200,Corn
+Alto Pekin,-10,06/01/2026,06/30/2026,N26,$4.0150,Corn
+Alto Pekin,-5,07/01/2026,07/31/2026,N26,$4.0650,Corn
+Alto Pekin,5,08/01/2026,08/31/2026,U26,$4.2500,Corn
+ADM Decatur Corn,15,06/16/2026,06/30/2026,June,$4.2650,Corn
+ADM Decatur Corn,18,07/01/2026,07/31/2026,July,$4.2950,Corn
+ADM Decatur Corn,10,08/01/2026,08/31/2026,August,$4.2975,Corn
+ADM Decatur Corn,-15,09/16/2026,10/31/2026,Fall 2026,$4.2450,Corn
+ADM Decatur Corn,1,12/01/2026,12/31/2026,December,$4.4050,Corn
+ADM Decatur Corn,-8,01/01/2027,01/31/2027,January,$4.4600,Corn
+ADM Decatur Corn,-5,02/01/2027,02/28/2027,February,$4.4900,Corn
+ADM Cedar Rapids Corn,-2,06/22/2026,06/28/2026,June wk 3,$4.0950,Corn
+ADM Cedar Rapids Corn,-2,06/29/2026,07/05/2026,June wk 4,$4.0950,Corn
+ADM Cedar Rapids Corn,-10,07/01/2026,07/31/2026,July,$4.0150,Corn
+ADM Cedar Rapids Corn,-2,07/06/2026,07/12/2026,July wk 1,$4.0950,Corn
+ADM Cedar Rapids Corn,-15,08/01/2026,08/31/2026,August,$4.0475,Corn
+ADM Cedar Rapids Corn,-15,09/01/2026,09/30/2026,September,$4.0475,Corn
+ADM Cedar Rapids Corn,-24,10/01/2026,10/31/2026,October,$4.1550,Corn
+ADM Cedar Rapids Corn,-22,11/01/2026,11/15/2026,FHNovember,$4.1750,Corn
+ADM Cedar Rapids Corn,-18,11/16/2026,11/30/2026,LH November,$4.2150,Corn
+ADM Cedar Rapids Corn,-15,12/01/2026,12/15/2026,FH December,$4.2450,Corn
+ADM Cedar Rapids Corn,-12,12/16/2026,12/31/2026,LH December,$4.2750,Corn
+ADM Cedar Rapids Corn,-18,01/01/2027,01/31/2027,January,$4.3600,Corn
+ADM Cedar Rapids Corn,-16,02/01/2027,02/28/2027,February,$4.3800,Corn
+ADM Clinton Corn,-5,06/22/2026,06/28/2026,June wk 3,$4.0650,Corn
+ADM Clinton Corn,-5,06/29/2026,07/05/2026,June wk 4,$4.0650,Corn
+ADM Clinton Corn,-5,07/01/2026,07/31/2026,July,$4.0650,Corn
+ADM Clinton Corn,-9,08/01/2026,08/31/2026,August,$4.1075,Corn
+ADM Clinton Corn,-9,09/01/2026,09/30/2026,September,$4.1075,Corn
+ADM Clinton Corn,-24,10/01/2026,10/31/2026,October,$4.1550,Corn
+ADM Clinton Corn,-22,11/01/2026,11/15/2026,FH November,$4.1750,Corn
+ADM Clinton Corn,-18,11/16/2026,11/30/2026,LH November,$4.2150,Corn
+ADM Clinton Corn,-15,12/01/2026,12/15/2026,FH December,$4.2450,Corn
+ADM Clinton Corn,-12,12/16/2026,12/31/2026,LH December,$4.2750,Corn
+ADM Clinton Corn,-18,01/01/2027,01/31/2027,January,$4.3600,Corn
+ADM Clinton Corn,-16,02/01/2027,02/28/2027,February,$4.3800,Corn
+Tate & Lyle Lafayette,25,06/12/2026,06/30/2026,Jul 2026,$4.3700,Corn
+Tate & Lyle Lafayette,27,07/01/2026,07/31/2026,Jul 2026,$4.3900,Corn
+Tate & Lyle Lafayette,22,08/01/2026,08/31/2026,Sep 2026,$4.4200,Corn
+Tate & Lyle Lafayette,-15,10/01/2026,11/30/2026,Dec 2026,$4.2500,Corn
+Tate & Lyle Lafayette,-10,01/01/2027,01/31/2027,Mar 2027,$4.4400,Corn
+Big River West Burlington,-10,06/01/2026,06/30/2026,Jul 26 Corn,$4.0200,Corn
+Big River West Burlington,-8,07/01/2026,07/31/2026,Jul 26 Corn,$4.0400,Corn
+Big River West Burlington,-14,08/01/2026,08/31/2026,Sep 26 Corn,$4.0600,Corn
+Big River West Burlington,-22,09/01/2026,09/30/2026,Sep 26 Corn,$3.9800,Corn
+Big River West Burlington,-30,10/01/2026,10/31/2026,Dec 26 Corn,$4.1000,Corn
+Big River West Burlington,-25,11/01/2026,11/30/2026,Dec 26 Corn,$4.1500,Corn
+Big River West Burlington,-20,12/01/2026,12/31/2026,Dec 26 Corn,$4.2000,Corn
+Big River West Burlington,-22,01/01/2027,01/31/2027,Mar 27 Corn,$4.3200,Corn
+Big River West Burlington,-18,02/01/2027,02/28/2027,Mar 27 Corn,$4.3600,Corn
+Marquis Hennepin,-6,06/21/2026,06/30/2026,Jul 2026,$4.0600,Corn
+Marquis Hennepin,-3,07/01/2026,07/10/2026,Jul 2026,$4.0900,Corn
+Marquis Hennepin,-3,07/11/2026,07/20/2026,Jul 2026,$4.0900,Corn
+Marquis Hennepin,-3,07/21/2026,07/31/2026,Jul 2026,$4.0900,Corn
+Cargill Blair NE,3,06/01/2026,06/30/2026,CN6,$4.1450,Corn
+Cargill Blair NE,0,07/01/2026,07/15/2026,CN6,$4.1150,Corn
+Cargill Blair NE,-3,07/01/2026,07/31/2026,CN6,$4.0850,Corn
+Cargill Blair NE,-19,08/01/2026,08/31/2026,CU6,$4.0075,Corn
+Cargill Blair NE,-16,09/01/2026,09/30/2026,CU6,$4.0375,Corn
+Cargill Blair NE,-12,09/16/2026,09/30/2026,CU6,$4.0775,Corn
+Cargill Blair NE,-25,10/01/2026,10/31/2026,CZ6,$4.1450,Corn
+Cargill Blair NE,-20,11/01/2026,11/30/2026,CZ6,$4.1950,Corn
+Cargill Blair NE,-15,11/16/2026,11/30/2026,CZ6,$4.2450,Corn
+Cargill Blair NE,-12,12/01/2026,12/31/2026,CZ6,$4.2750,Corn
+Cargill Blair NE,-22,01/01/2027,01/31/2027,CH7,$4.3200,Corn
+Cargill Blair NE,-18,02/01/2027,02/28/2027,CH7,$4.3600,Corn
+Andersons Clymers,15,06/01/2026,06/30/2026,CN26,$4.2650,Corn
+Andersons Clymers,15,07/01/2026,07/31/2026,CN26,$4.2650,Corn
+Andersons Clymers,10,08/01/2026,08/31/2026,CU26,$4.2975,Corn
+Andersons Clymers,-30,10/01/2026,11/30/2026,CZ26,$4.0950,Corn
+Andersons Clymers,-10,12/01/2026,12/31/2026,CZ26,$4.2950,Corn
+Andersons Clymers,-18,01/01/2027,01/31/2027,CH27,$4.3600,Corn
+Andersons Clymers,-13,02/01/2027,02/28/2027,CH27,$4.4100,Corn
+POET Fostoria OH,50,06/01/2026,06/30/2026,June '26,$4.6100,Corn
+POET Fostoria OH,40,07/01/2026,07/31/2026,July '26,$4.5100,Corn
+POET Fostoria OH,-20,10/01/2026,11/30/2026,Oct/Nov 26,$4.1900,Corn
+POET Fostoria OH,-10,12/01/2026,12/31/2026,Dec '26,$4.2900,Corn
+POET Fostoria OH,-10,01/01/2027,01/31/2027,Jan '27,$4.4400,Corn
+POET Fostoria OH,-10,02/01/2027,02/28/2027,Feb '27,$4.4400,Corn
+POET Macon MO,-20,06/01/2026,06/30/2026,June 26,$3.9100,Corn
+POET Macon MO,-18,07/01/2026,07/31/2026,July 26,$3.9300,Corn
+POET Macon MO,-23,08/01/2026,08/31/2026,Aug 26,$3.9700,Corn
+POET Macon MO,-30,09/01/2026,09/30/2026,Sept 26,$4.0900,Corn
+POET Macon MO,-30,10/01/2026,10/31/2026,Oct 26,$4.0900,Corn
+POET Macon MO,-25,11/01/2026,11/30/2026,Nov 26,$4.1400,Corn
+POET Macon MO,-20,12/01/2026,12/31/2026,Dec 26,$4.1900,Corn
+POET Macon MO,-32,01/01/2027,01/31/2027,Jan 27,$4.2200,Corn
+POET Macon MO,-27,02/01/2027,02/28/2027,Feb 27,$4.2700,Corn
+Mid Missouri Energy Malta Bend MO,10,06/11/2026,06/30/2026,JUN,$4.2150,Corn
+Mid Missouri Energy Malta Bend MO,10,07/01/2026,07/31/2026,JUL,$4.2150,Corn
+Mid Missouri Energy Malta Bend MO,-25,09/16/2026,09/30/2026,SEP 2026,$4.1450,Corn
+Mid Missouri Energy Malta Bend MO,-25,10/01/2026,10/31/2026,OCT 2026,$4.1450,Corn
+Mid Missouri Energy Malta Bend MO,-15,12/01/2026,12/31/2026,DEC 2026,$4.2450,Corn
+Mid Missouri Energy Malta Bend MO,-20,01/01/2027,01/31/2027,JAN 27,$4.3400,Corn
+Mid Missouri Energy Malta Bend MO,-18,02/01/2027,02/28/2027,FEB 27,$4.3600,Corn
+Cardinal Colwich KS,10,06/01/2026,06/30/2026,Jul'26,$4.2200,Corn
+Cardinal Colwich KS,15,07/01/2026,07/31/2026,Jul'26,$4.2700,Corn
+Cardinal Colwich KS,-25,09/01/2026,09/30/2026,Dec'26,$4.1500,Corn
+Cardinal Colwich KS,-25,10/01/2026,10/31/2026,Dec'26,$4.1500,Corn
+Cardinal Colwich KS,-15,11/01/2026,11/30/2026,Dec'26,$4.2500,Corn
+Cardinal Colwich KS,-10,12/01/2026,12/31/2026,Dec'26,$4.3000,Corn
+Cardinal Colwich KS,-19,01/01/2027,01/31/2027,Mar'27,$4.3500,Corn
+Necedah WI,-30,06/17/2026,06/30/2026,Jul 2026,$3.8200,Corn
+Necedah WI,-28,07/01/2026,07/31/2026,Jul 2026,$3.8400,Corn
+Necedah WI,-32,08/01/2026,08/31/2026,Sep 2026,$3.8800,Corn
+Necedah WI,-30,09/01/2026,09/30/2026,Sep 2026,$3.9000,Corn
+Necedah WI,-40,10/01/2026,10/15/2026,Dec 2026,$4.0000,Corn
+Necedah WI,-32,10/16/2026,10/31/2026,Dec 2026,$4.0800,Corn
+Necedah WI,-32,11/01/2026,11/30/2026,Dec 2026,$4.0800,Corn
+Necedah WI,-22,12/01/2026,12/15/2026,Dec 2026,$4.1800,Corn
+Necedah WI,-30,12/16/2026,12/31/2026,Mar 2027,$4.2400,Corn
+Necedah WI,-30,01/01/2027,01/31/2027,Mar 2027,$4.2400,Corn
+Aztalan Johnson Creek WI,-27,06/01/2026,06/30/2026,Jul'26,$3.8400,Corn
+Aztalan Johnson Creek WI,-22,07/01/2026,07/31/2026,Jul'26,$3.8900,Corn
+Aztalan Johnson Creek WI,-26,08/01/2026,08/31/2026,Sep'26,$3.9400,Corn
+Aztalan Johnson Creek WI,-22,09/01/2026,09/30/2026,Sep'26,$3.9800,Corn
+Aztalan Johnson Creek WI,-30,10/01/2026,10/31/2026,Dec'26,$4.0900,Corn
+Aztalan Johnson Creek WI,-30,11/01/2026,11/30/2026,Dec'26,$4.0900,Corn
+Aztalan Johnson Creek WI,-25,12/01/2026,12/31/2026,Dec'26,$4.1400,Corn
+Aztalan Johnson Creek WI,-30,01/01/2027,01/31/2027,Mar'27,$4.2400,Corn
+Aztalan Johnson Creek WI,-28,02/01/2027,02/28/2027,Mar'27,$4.2600,Corn
+KCS Jacksonville IL,20,06/22/2026,06/26/2026,Jul 2026,$4.3100,Corn
+KCS Jacksonville IL,15,06/29/2026,06/30/2026,Jul 2026,$4.2600,Corn
+KCS Jacksonville IL,15,07/01/2026,07/31/2026,Jul 2026,$4.2600,Corn
+KCS Jacksonville IL,-25,09/01/2026,10/31/2026,Dec 2026,$4.1400,Corn
+KCS Jacksonville IL,0,12/01/2026,12/31/2026,Dec 2026,$4.3900,Corn
+KCS Jacksonville IL,-6,01/01/2027,01/31/2027,Mar 2027,$4.4800,Corn
+KCS Jacksonville IL,-3,02/01/2027,02/28/2027,Mar 2027,$4.5100,Corn
+BNSF Waverly,6,06/01/2026,06/30/2026,Jul 26 Corn,$4.1700,Corn
+BNSF Waverly,6,07/01/2026,07/31/2026,Jul 26 Corn,$4.1700,Corn
+BNSF Waverly,-25,09/01/2026,10/31/2026,Dec 26 Corn,$4.1400,Corn
+BNSF Waverly,-10,12/01/2026,12/31/2026,Dec 26 Corn,$4.2900,Corn
+BNSF Waverly,-10,01/01/2027,01/31/2027,Mar 27 Corn,$4.4400,Corn
+MFA Hamilton,-15,06/01/2026,06/30/2026,@C6N,$3.9700,Corn
+MFA Hamilton,-15,07/01/2026,07/31/2026,@C6N,$3.9700,Corn
+MFA Hamilton,-40,09/01/2026,11/30/2026,@C6Z,$4.0000,Corn
+JBS Smithton,20,06/16/2026,06/30/2026,Jul 2026,$4.3150,Corn
+JBS Smithton,20,07/01/2026,07/31/2026,Jul 2026,$4.3150,Corn
+JBS Smithton,10,08/01/2026,08/31/2026,Sep 2026,$4.2975,Corn
+JBS Smithton,-25,10/01/2026,10/31/2026,Dec 2026,$4.1450,Corn
+JBS Smithton,-18,11/01/2026,11/30/2026,Dec 2026,$4.2150,Corn
+JBS Smithton,-10,12/01/2026,12/31/2026,Dec 2026,$4.2950,Corn
+JBS Smithton,-20,01/01/2027,01/31/2027,Mar 2027,$4.3400,Corn
+Bartlett Atchison,35,05/13/2026,08/31/2026,Jul 2026,$4.4600,Corn
+Bartlett Atchison,5,06/03/2026,06/30/2026,Jul 2026,$4.1600,Corn
+Bartlett Atchison,5,07/01/2026,07/31/2026,Jul 2026,$4.1600,Corn
+Bartlett Atchison,-40,10/01/2026,10/31/2026,Dec 2026,$3.9900,Corn
+Bartlett Atchison,-10,12/01/2026,12/31/2026,Dec 2026,$4.2900,Corn
+ADM Decatur Beans,25,06/16/2026,07/07/2026,LH June - July 7,$11.4075,Beans
+ADM Decatur Beans,20,07/08/2026,07/15/2026,July 8-15,$11.3575,Beans
+ADM Decatur Beans,12,07/16/2026,07/31/2026,LH July,$11.2775,Beans
+ADM Decatur Beans,-5,09/16/2026,10/31/2026,Sept 16-Oct 31,$11.3650,Beans
+ADM Decatur Beans,5,11/01/2026,11/30/2026,November,$11.4650,Beans
+ADM Decatur Beans,-3,12/01/2026,12/31/2026,December,$11.5275,Beans
+ADM Decatur Beans,2,01/01/2027,01/31/2027,January,$11.5775,Beans
+ADM Decatur Beans,5,02/01/2027,02/28/2027,February,$11.6800,Beans
+Bunge Cairo IL Beans,40,06/01/2026,06/30/2026,@SN26,$11.5575,Beans
+Bunge Cairo IL Beans,45,07/01/2026,07/31/2026,@SN26,$11.6075,Beans
+Bunge Cairo IL Beans,30,08/01/2026,08/31/2026,@SQ26,$11.5250,Beans
+Bunge Cairo IL Beans,15,09/01/2026,09/15/2026,@SX26,$11.5650,Beans
+Bunge Cairo IL Beans,-5,09/16/2026,10/31/2026,@SX26,$11.3650,Beans
+Bunge Cairo IL Beans,12,11/01/2026,11/30/2026,@SX26,$11.5350,Beans
+Bunge Cairo IL Beans,18,12/01/2026,12/31/2026,@SF27,$11.7375,Beans
+Bunge Cairo IL Beans,24,01/01/2027,01/31/2027,@SF27,$11.7975,Beans
+ADM Fostoria OH Beans,30,06/01/2026,06/30/2026,June,$11.4575,Beans
+ADM Fostoria OH Beans,20,07/01/2026,07/31/2026,July,$11.3575,Beans
+ADM Fostoria OH Beans,15,08/01/2026,08/31/2026,August,$11.3750,Beans
+ADM Fostoria OH Beans,-20,10/01/2026,11/30/2026,NC 26,$11.2150,Beans
+ADM Fostoria OH Beans,-15,12/01/2026,12/31/2026,Dec,$11.4075,Beans
+ADM Fostoria OH Beans,-5,01/01/2027,01/31/2027,Jan,$11.5075,Beans
+Bunge Bellevue OH Beans,30,06/01/2026,06/30/2026,@SN26,$11.4575,Beans
+Bunge Bellevue OH Beans,5,07/16/2026,07/31/2026,@SN26,$11.2075,Beans
+Bunge Bellevue OH Beans,0,08/01/2026,08/31/2026,@SQ26,$11.2250,Beans
+Bunge Bellevue OH Beans,-20,10/01/2026,11/30/2026,@SX26,$11.2150,Beans
+Bunge Bellevue OH Beans,-10,12/01/2026,12/31/2026,@SF27,$11.4575,Beans
+Bunge Bellevue OH Beans,-5,01/01/2027,01/31/2027,@SF27,$11.5075,Beans
+Bunge Bellevue OH Beans,15,FH July,FH July,@SN26,$11.3075,Beans
+Cargill Sidney OH Beans,20,06/01/2026,06/30/2026,SN6,$11.3575,Beans
+Cargill Sidney OH Beans,10,07/01/2026,07/31/2026,SN6,$11.2575,Beans
+Cargill Sidney OH Beans,15,08/01/2026,08/31/2026,SQ6,$11.3750,Beans
+Cargill Sidney OH Beans,-25,10/01/2026,10/31/2026,SX6,$11.1650,Beans
+Cargill Sidney OH Beans,-5,12/01/2026,12/31/2026,SF7,$11.5075,Beans
+Cargill Sidney OH Beans,-15,01/01/2027,01/31/2027,SF7,$11.4075,Beans
+Cargill Sidney OH Beans,-10,02/01/2027,02/28/2027,SH7,$11.5300,Beans
+ADM Quincy IL Beans,19.75,06/01/2026,06/30/2026,Jun 26,$11.3550,Beans
+ADM Quincy IL Beans,26.75,07/01/2026,07/31/2026,Jul 26,$11.4250,Beans
+ADM Quincy IL Beans,19.75,08/01/2026,08/31/2026,Aug 26,$11.4225,Beans
+ADM Quincy IL Beans,-15.25,09/01/2026,09/30/2026,Sep 26,$11.2625,Beans
+ADM Quincy IL Beans,-15.25,10/01/2026,11/29/2026,Oct Nov 26,$11.2625,Beans
+ADM Quincy IL Beans,-8.25,11/01/2026,11/30/2026,Nov 26,$11.3325,Beans
+ADM Quincy IL Beans,-3.25,12/01/2026,12/31/2026,Dec 26,$11.5250,Beans
+ADM Quincy IL Beans,-1.25,01/01/2027,01/31/2027,Jan 27,$11.5450,Beans
+ADM Quincy IL Beans,-5.25,02/01/2027,02/28/2027,Feb 27,$11.5775,Beans
+ADM Mexico MO Beans,10,06/01/2026,06/30/2026,June,$11.2575,Beans
+ADM Mexico MO Beans,30,07/01/2026,07/31/2026,July,$11.4575,Beans
+ADM Mexico MO Beans,25,08/01/2026,08/31/2026,August,$11.4750,Beans
+ADM Mexico MO Beans,-20,09/01/2026,09/30/2026,September,$11.2150,Beans
+ADM Mexico MO Beans,-25,10/01/2026,11/30/2026,N/C 26,$11.1650,Beans
+ADM Mexico MO Beans,-10,11/01/2026,11/30/2026,November,$11.3150,Beans
+ADM Mexico MO Beans,-15,12/01/2026,12/31/2026,December,$11.4075,Beans
+ADM Mexico MO Beans,-10,01/01/2027,01/31/2027,January,$11.4575,Beans
+Cargill KC Beans,25,06/16/2026,06/30/2026,SN6,$11.4075,Beans
+Cargill KC Beans,25,07/01/2026,07/15/2026,SN6,$11.4075,Beans
+Cargill KC Beans,50,07/16/2026,07/31/2026,SN6,$11.6575,Beans
+Cargill KC Beans,45,08/01/2026,08/31/2026,SQ6,$11.6750,Beans
+Cargill KC Beans,-30,10/01/2026,10/31/2026,SX6,$11.1150,Beans
+Cargill KC Beans,-30,11/01/2026,11/30/2026,SX6,$11.1150,Beans
+Cargill KC Beans,-20,12/01/2026,12/31/2026,SF7,$11.3575,Beans
+Cargill Cedar Rapids IA Beans,0,06/01/2026,06/30/2026,SN6,$11.1575,Beans
+Cargill Cedar Rapids IA Beans,0,07/01/2026,07/15/2026,SN6,$11.1575,Beans
+Cargill Cedar Rapids IA Beans,15,07/16/2026,07/31/2026,SN6,$11.3075,Beans
+Cargill Cedar Rapids IA Beans,10,08/01/2026,08/31/2026,SQ6,$11.3250,Beans
+Cargill Cedar Rapids IA Beans,-40,10/01/2026,10/31/2026,SX6,$11.0150,Beans
+Cargill Cedar Rapids IA Beans,-30,11/01/2026,11/30/2026,SX6,$11.1150,Beans
+Cargill Cedar Rapids IA Beans,-30,12/01/2026,12/31/2026,SF7,$11.2575,Beans
+Cargill Cedar Rapids IA Beans,-30,01/01/2027,01/31/2027,SF7,$11.2575,Beans
+Cargill Cedar Rapids IA Beans,-30,02/01/2027,02/28/2027,SH7,$11.3300,Beans
+ADM Mankato MN Beans,-5,06/01/2026,06/30/2026,June,$11.1075,Beans
+ADM Mankato MN Beans,-5,07/01/2026,07/31/2026,July,$11.1075,Beans
+ADM Mankato MN Beans,-30,08/01/2026,08/31/2026,August,$10.9250,Beans
+ADM Mankato MN Beans,-35,09/16/2026,10/19/2026,New Crop '26,$11.0650,Beans
+ADM Mankato MN Beans,-30,10/20/2026,11/30/2026,October 20th-November,$11.1150,Beans
+ADM Mankato MN Beans,-40,12/01/2026,12/31/2026,December,$11.1575,Beans
+ADM Mankato MN Beans,-40,01/01/2027,01/31/2027,January,$11.1575,Beans
+Quality Roasting Valders Beans,-100,06/01/2026,06/30/2026,Nov 26,$10.4200,Beans
+Quality Roasting Valders Beans,-85,07/01/2026,07/31/2026,Jul 26,$10.3100,Beans
+Quality Roasting Valders Beans,-80,08/01/2026,08/31/2026,Aug 26,$10.4300,Beans
+Quality Roasting Valders Beans,-80,09/01/2026,11/30/2026,Nov 26,$10.6200,Beans
+CGB Joliet Container,20,06/01/2026,06/30/2026,Jul 2026,$11.3600,Bean/Other
+CGB Joliet Container,30,07/01/2026,07/31/2026,Jul 2026,$11.4600,Bean/Other
+CGB Joliet Container,35,08/01/2026,08/31/2026,Aug 2026,$11.5800,Bean/Other
+CGB Joliet Container,-10,10/01/2026,10/31/2026,Nov 2026,$11.3200,Bean/Other
+CGB Joliet Container,-5,12/01/2026,12/31/2026,Jan 2027,$11.5100,Bean/Other
+CGB Joliet Container,0,01/01/2027,01/31/2027,Jan 2027,$11.5600,Bean/Other
+ADM St Louis River SRW Wheat,-3,06/01/2026,07/31/2026,June/July,$5.9450,SRW Wheat
+ADM St Louis River SRW Wheat,-22,08/01/2026,08/31/2026,AUG 26,$5.8550,SRW Wheat
+ADM St Louis River SRW Wheat,-25,09/01/2026,09/30/2026,SEPT 26,$5.8250,SRW Wheat
+ADM St Louis River SRW Wheat,-29,10/01/2026,10/31/2026,Oct 26,$5.9500,SRW Wheat
+ADM St Louis River SRW Wheat,-15,11/01/2026,11/30/2026,Nov 26,$6.0900,SRW Wheat
+ADM St Louis River SRW Wheat,-3,12/01/2026,12/31/2026,Dec 26,$6.2100,SRW Wheat
+ADM St Louis River SRW Wheat,-10,01/01/2027,01/31/2027,Jan 27,$6.2800,SRW Wheat
+Mennel Fostoria OH SRW Wheat,-15,06/01/2026,06/30/2026,Jul 2026,$5.8300,SRW Wheat
+Mennel Fostoria OH SRW Wheat,-10,07/01/2026,09/30/2026,Jul 2026,$5.8800,SRW Wheat
+Mennel Fostoria OH SRW Wheat,-15,10/01/2026,12/31/2026,Dec 2026,$6.0900,SRW Wheat

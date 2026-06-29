@@ -28,7 +28,10 @@ class AgrichartsEmbedScraper(BaseScraper):
         self.location = location
         self.forced_commodity = forced_commodity
         self.location_filter = location_filter.lower() if location_filter else None
-        self.allowed_commodities = set(allowed_commodities or [])
+        self.allowed_commodities = {
+            self._normalize_commodity_name(commodity)
+            for commodity in (allowed_commodities or [])
+        }
         self.headers = {
             "User-Agent": (
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -74,7 +77,8 @@ class AgrichartsEmbedScraper(BaseScraper):
                     or bid.get("symbol")
                     or group_commodity
                 )
-                if self.allowed_commodities and commodity not in self.allowed_commodities:
+                commodity_key = self._normalize_commodity_name(commodity)
+                if self.allowed_commodities and commodity_key not in self.allowed_commodities:
                     continue
                 rows.append(
                     {
@@ -114,14 +118,21 @@ class AgrichartsEmbedScraper(BaseScraper):
         return json.loads(html[start:end])
 
     def _clean_commodity(self, value: str) -> str:
-        value_lower = value.lower()
+        value_lower = (value or "").lower().strip()
+        if "white corn" in value_lower or value_lower in {"wc", "white corn"}:
+            return "White Corn"
+        if "yellow corn" in value_lower or value_lower in {"yc", "yellow corn"}:
+            return "Yellow Corn"
         if "corn" in value_lower or value_lower in {"zc"}:
             return "Corn"
         if "soy" in value_lower or "bean" in value_lower or value_lower in {"zs"}:
             return "Beans"
         if "soft red winter" in value_lower or "wheat" in value_lower:
             return "SRW Wheat"
-        return value.strip()
+        return (value or "").strip()
+
+    def _normalize_commodity_name(self, value: Any) -> str:
+        return str(value or "").strip().lower()
 
     def _format_basis(self, value: Any) -> str:
         if value in (None, ""):

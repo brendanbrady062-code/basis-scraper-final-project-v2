@@ -510,7 +510,7 @@ SCRAPERS = {
         "location": "Bartlett Atchison",
         "url": "https://bartlettandco.agricharts.com/inc/cashbids/cashbids-json.php",
         "location_filter": "Atchison",
-        "allowed_commodities": ["Corn"],
+        "allowed_commodities": ["Yellow Corn"],
         "enabled": True,
     },
     "Bunge_cairo_il_beans": {
